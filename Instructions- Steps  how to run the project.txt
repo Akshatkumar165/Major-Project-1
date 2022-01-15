@@ -1,0 +1,12 @@
+1	Steps to run the project
+
+Step-1 launch VS code.
+Step-2 Activate the shell.
+Step-3 Go to Project
+Step- 4 Execute by command “python manage.py runserver”.
+Step-5 After step-4 link will come on double clicking on link browser will open and here we go.
+
+2	Coding
+
+(1) python manage.py runserver
+
